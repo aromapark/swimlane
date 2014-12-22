@@ -25,6 +25,5 @@
         "files": [
             "vendor/redbeanphp/rb.php"
         ]
-    },
-    "minimum-stability": "dev"
+    }
 }
